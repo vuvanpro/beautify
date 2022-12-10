@@ -1,0 +1,18 @@
+{
+  "name": "js-beautify",
+  "version": "1.14.7",
+  "description": "beautifier.io for node",
+  "main": "js/index.js",
+  "scripts": {},
+  "bugs": "https://github.com/beautify-web/js-beautify/issues",
+  "homepage": "https://thichjs.blogspot.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beautify-web/js-beautify.git"
+  },
+  "keywords": [
+    "beautify",
+    "beautifier",
+    "code-quality"
+  ],
+}
